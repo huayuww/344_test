@@ -6,6 +6,7 @@
 | Huayu     | Javascript                    |
 | Xian      | Python                        |
 | Test      | Python                        |
+| Alana     | Python                        |
 | Nels      | Lean                          | 
 | Evans     | C                             |
 | Connor    | Verilog                       |
