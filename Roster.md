@@ -6,5 +6,6 @@
 | Huayu     | Javascript                    |
 | Xian      | Python                        |
 | Test      | Python                        |
+| Kourosh   | C                             |
 | Nels      | Lean                          | 
 | Evans     | C                             |
