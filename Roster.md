@@ -5,5 +5,4 @@
 | Huayu     | C++                           |
 | Xian      | Python                        |
 | Test      | Python                        |
-
-
+| Daniel    | Python
