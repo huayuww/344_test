@@ -8,3 +8,4 @@
 | Test      | Python                        |
 | Nels      | Lean                          | 
 | Evans     | C                             |
+| Connor    | Verilog                       |
