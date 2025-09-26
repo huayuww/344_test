@@ -9,4 +9,5 @@
 | Alana     | Python                        |
 | Nels      | Lean                          | 
 | Evans     | C                             |
+| Akash     | Java                          |
 | Connor    | Verilog                       |
