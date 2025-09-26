@@ -1,9 +1,12 @@
 # 344 Class Roster
 
+
 | Name      | Favorite Programming Language |
 |-----------|-------------------------------|
-| Huayu     | C++                           |
+| Huayu     | Javascript                    |
 | Xian      | Python                        |
 | Test      | Python                        |
 | Alana     | Python                        |
-
+| Nels      | Lean                          | 
+| Evans     | C                             |
+| Connor    | Verilog                       |
