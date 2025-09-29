@@ -11,3 +11,4 @@
 | Evans     | C                             |
 | Akash     | Java                          |
 | Connor    | Verilog                       |
+| Tejaswini | Verilog                       |
